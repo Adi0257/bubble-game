@@ -1,3 +1,4 @@
+alert("click on the number displayed on hit coloum for each correct click ,score will be increased with 10 points ");
 var score = 0;
 var hitrn = 0;
 var timer = 60;
